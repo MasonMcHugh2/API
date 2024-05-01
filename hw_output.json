@@ -1,0 +1,5129 @@
+[
+    {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Guatemala",
+                    "common": "Guatemala"
+                }
+            }
+        },
+        "tld": [
+            ".gt"
+        ],
+        "cca2": "GT",
+        "ccn3": "320",
+        "cca3": "GTM",
+        "cioc": "GUA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "02"
+            ]
+        },
+        "capital": [
+            "Guatemala City"
+        ],
+        "altSpellings": [
+            "GT"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+                "common": "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
+            },
+            "bre": {
+                "official": "Republik Guatemala",
+                "common": "Guatemala"
+            },
+            "ces": {
+                "official": "Republika Guatemala",
+                "common": "Guatemala"
+            },
+            "cym": {
+                "official": "Republic of Guatemala",
+                "common": "Guatemala"
+            },
+            "deu": {
+                "official": "Republik Guatemala",
+                "common": "Guatemala"
+            },
+            "est": {
+                "official": "Guatemala Vabariik",
+                "common": "Guatemala"
+            },
+            "fin": {
+                "official": "Guatemalan tasavalta",
+                "common": "Guatemala"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Guatemala",
+                "common": "Guatemala"
+            },
+            "hrv": {
+                "official": "Republika Gvatemala",
+                "common": "Gvatemala"
+            },
+            "hun": {
+                "official": "Guatemalai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Guatemala"
+            },
+            "ita": {
+                "official": "Repubblica del Guatemala",
+                "common": "Guatemala"
+            },
+            "jpn": {
+                "official": "\u30b0\u30a2\u30c6\u30de\u30e9\u5171\u548c\u56fd",
+                "common": "\u30b0\u30a2\u30c6\u30de\u30e9"
+            },
+            "kor": {
+                "official": "\uacfc\ud14c\ub9d0\ub77c \uacf5\ud654\uad6d",
+                "common": "\uacfc\ud14c\ub9d0\ub77c"
+            },
+            "nld": {
+                "official": "Republiek Guatemala",
+                "common": "Guatemala"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
+                "common": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627"
+            },
+            "pol": {
+                "official": "Republika Gwatemali",
+                "common": "Gwatemala"
+            },
+            "por": {
+                "official": "Rep\u00fablica da Guatemala",
+                "common": "Guatemala"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+                "common": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+            },
+            "slk": {
+                "official": "Guatemalsk\u00e1 republika",
+                "common": "Guatemala"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Guatemala",
+                "common": "Guatemala"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+                "common": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+            },
+            "swe": {
+                "official": "Republiken Guatemala",
+                "common": "Guatemala"
+            },
+            "tur": {
+                "official": "Guatemala Cumhuriyeti",
+                "common": "Guatemala"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
+                "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+            },
+            "zho": {
+                "official": "\u5371\u5730\u9a6c\u62c9\u5171\u548c\u56fd",
+                "common": "\u5371\u5730\u9a6c\u62c9"
+            }
+        },
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "landlocked": false,
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "area": 108889.0,
+        "demonyms": {
+            "eng": {
+                "f": "Guatemalan",
+                "m": "Guatemalan"
+            },
+            "fra": {
+                "f": "Guat\u00e9malt\u00e8que",
+                "m": "Guat\u00e9malt\u00e8que"
+            }
+        },
+        "flag": "\ud83c\uddec\ud83c\uddf9",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1521463"
+        },
+        "population": 16858333,
+        "gini": {
+            "2014": 48.3
+        },
+        "fifa": "GUA",
+        "car": {
+            "signs": [
+                "GCA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gt.png",
+            "svg": "https://flagcdn.com/gt.svg",
+            "alt": "The flag of Guatemala is composed of three equal vertical bands of light blue, white and light blue, with the national coat of arms centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gt.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gt.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                14.62,
+                -90.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Cuba",
+            "official": "Republic of Cuba",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Cuba",
+                    "common": "Cuba"
+                }
+            }
+        },
+        "tld": [
+            ".cu"
+        ],
+        "cca2": "CU",
+        "ccn3": "192",
+        "cca3": "CUB",
+        "cioc": "CUB",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "capital": [
+            "Havana"
+        ],
+        "altSpellings": [
+            "CU",
+            "Republic of Cuba",
+            "Rep\u00fablica de Cuba"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0628\u0627",
+                "common": "\u0643\u0648\u0628\u0627"
+            },
+            "bre": {
+                "official": "Republik Kuba",
+                "common": "Kuba"
+            },
+            "ces": {
+                "official": "Kub\u00e1nsk\u00e1 republika",
+                "common": "Kuba"
+            },
+            "cym": {
+                "official": "Gweriniaeth Ciwba",
+                "common": "Ciwba"
+            },
+            "deu": {
+                "official": "Republik Kuba",
+                "common": "Kuba"
+            },
+            "est": {
+                "official": "Kuuba Vabariik",
+                "common": "Kuuba"
+            },
+            "fin": {
+                "official": "Kuuban tasavalta",
+                "common": "Kuuba"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Cuba",
+                "common": "Cuba"
+            },
+            "hrv": {
+                "official": "Republika Kuba",
+                "common": "Kuba"
+            },
+            "hun": {
+                "official": "Kubai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Kuba"
+            },
+            "ita": {
+                "official": "Repubblica di Cuba",
+                "common": "Cuba"
+            },
+            "jpn": {
+                "official": "\u30ad\u30e5\u30fc\u30d0\u5171\u548c\u56fd",
+                "common": "\u30ad\u30e5\u30fc\u30d0"
+            },
+            "kor": {
+                "official": "\ucfe0\ubc14 \uacf5\ud654\uad6d",
+                "common": "\ucfe0\ubc14"
+            },
+            "nld": {
+                "official": "Republiek Cuba",
+                "common": "Cuba"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0628\u0627",
+                "common": "\u06a9\u0648\u0628\u0627"
+            },
+            "pol": {
+                "official": "Republika Kuby",
+                "common": "Kuba"
+            },
+            "por": {
+                "official": "Rep\u00fablica de Cuba",
+                "common": "Cuba"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430",
+                "common": "\u041a\u0443\u0431\u0430"
+            },
+            "slk": {
+                "official": "Kub\u00e1nska republika",
+                "common": "Kuba"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Cuba",
+                "common": "Cuba"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430",
+                "common": "\u041a\u0443\u0431\u0430"
+            },
+            "swe": {
+                "official": "Republiken Kuba",
+                "common": "Kuba"
+            },
+            "tur": {
+                "official": "K\u00fcba Cumhuriyeti",
+                "common": "K\u00fcba"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627",
+                "common": "\u06a9\u06cc\u0648\u0628\u0627"
+            },
+            "zho": {
+                "official": "\u53e4\u5df4\u5171\u548c\u56fd",
+                "common": "\u53e4\u5df4"
+            }
+        },
+        "latlng": [
+            21.5,
+            -80.0
+        ],
+        "landlocked": false,
+        "area": 109884.0,
+        "demonyms": {
+            "eng": {
+                "f": "Cuban",
+                "m": "Cuban"
+            },
+            "fra": {
+                "f": "Cubaine",
+                "m": "Cubain"
+            }
+        },
+        "flag": "\ud83c\udde8\ud83c\uddfa",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+        },
+        "population": 11326616,
+        "fifa": "CUB",
+        "car": {
+            "signs": [
+                "C"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cu.png",
+            "svg": "https://flagcdn.com/cu.svg",
+            "alt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                23.12,
+                -82.35
+            ]
+        },
+        "postalCode": {
+            "format": "CP #####",
+            "regex": "^(?:CP)*(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "tld": [
+            ".cr"
+        ],
+        "cca2": "CR",
+        "ccn3": "188",
+        "cca3": "CRI",
+        "cioc": "CRC",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican col\u00f3n",
+                "symbol": "\u20a1"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "06"
+            ]
+        },
+        "capital": [
+            "San Jos\u00e9"
+        ],
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "Rep\u00fablica de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627",
+                "common": "\u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627"
+            },
+            "bre": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
+            "ces": {
+                "official": "Kostarick\u00e1 republika",
+                "common": "Kostarika"
+            },
+            "cym": {
+                "official": "Gweriniaeth Costa Rica",
+                "common": "Costa Rica"
+            },
+            "deu": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
+            "est": {
+                "official": "Costa Rica Vabariik",
+                "common": "Costa Rica"
+            },
+            "fin": {
+                "official": "Costa Rican tasavalta",
+                "common": "Costa Rica"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Costa Rica",
+                "common": "Costa Rica"
+            },
+            "hrv": {
+                "official": "Republika Kostarika",
+                "common": "Kostarika"
+            },
+            "hun": {
+                "official": "Costa Rica-i K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Costa Rica"
+            },
+            "ita": {
+                "official": "Repubblica di Costa Rica",
+                "common": "Costa Rica"
+            },
+            "jpn": {
+                "official": "\u30b3\u30b9\u30bf\u30ea\u30ab\u5171\u548c\u56fd",
+                "common": "\u30b3\u30b9\u30bf\u30ea\u30ab"
+            },
+            "kor": {
+                "official": "\ucf54\uc2a4\ud0c0\ub9ac\uce74 \uacf5\ud654\uad6d",
+                "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
+            },
+            "nld": {
+                "official": "Republiek Costa Rica",
+                "common": "Costa Rica"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
+                "common": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627"
+            },
+            "pol": {
+                "official": "Republika Kostaryki",
+                "common": "Kostaryka"
+            },
+            "por": {
+                "official": "Rep\u00fablica da Costa Rica",
+                "common": "Costa Rica"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+                "common": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
+            },
+            "slk": {
+                "official": "Kostarick\u00e1 republika",
+                "common": "Kostarika"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Costa Rica",
+                "common": "Costa Rica"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430\u0440\u0438\u043a\u0430",
+                "common": "\u041a\u043e\u0441\u0442\u0430\u0440\u0438\u043a\u0430"
+            },
+            "swe": {
+                "official": "Republiken Costa Rica",
+                "common": "Costa Rica"
+            },
+            "tur": {
+                "official": "Kosta Rika Cumhuriyeti",
+                "common": "Kosta Rika"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627",
+                "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
+            },
+            "zho": {
+                "official": "\u54e5\u65af\u8fbe\u9ece\u52a0\u5171\u548c\u56fd",
+                "common": "\u54e5\u65af\u8fbe\u9ece\u52a0"
+            }
+        },
+        "latlng": [
+            10.0,
+            -84.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "area": 51100.0,
+        "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
+            "fra": {
+                "f": "Costaricaine",
+                "m": "Costaricain"
+            }
+        },
+        "flag": "\ud83c\udde8\ud83c\uddf7",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+        },
+        "population": 5094114,
+        "gini": {
+            "2019": 48.2
+        },
+        "fifa": "CRC",
+        "car": {
+            "signs": [
+                "CR"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cr.png",
+            "svg": "https://flagcdn.com/cr.svg",
+            "alt": "The flag of Costa Rica is composed of five horizontal bands of blue, white, red, white and blue. The central red band is twice the height of the other four bands."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                9.93,
+                -84.09
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Western Sahara",
+            "official": "Sahrawi Arab Democratic Republic",
+            "nativeName": {
+                "ber": {
+                    "official": "Sahrawi Arab Democratic Republic",
+                    "common": "Western Sahara"
+                },
+                "mey": {
+                    "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+                    "common": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
+                    "common": "Sahara Occidental"
+                }
+            }
+        },
+        "tld": [
+            ".eh"
+        ],
+        "cca2": "EH",
+        "ccn3": "732",
+        "cca3": "ESH",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\u062f\u062c"
+            },
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "DH"
+            },
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "125288",
+                "125289"
+            ]
+        },
+        "capital": [
+            "El Aai\u00fan"
+        ],
+        "altSpellings": [
+            "EH",
+            "Tane\u1e93roft Tutrimt"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ber": "Berber",
+            "mey": "Hassaniya",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+                "common": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+            },
+            "bre": {
+                "official": "Republik Arab Saharaoui Demokratel",
+                "common": "Sahara ar C'horn\u00f4g"
+            },
+            "ces": {
+                "official": "Z\u00e1padn\u00ed Sahara",
+                "common": "Z\u00e1padn\u00ed Sahara"
+            },
+            "cym": {
+                "official": "Sahrawi Arab Democratic Republic",
+                "common": "Western Sahara"
+            },
+            "deu": {
+                "official": "Demokratische Arabische Republik Sahara",
+                "common": "Westsahara"
+            },
+            "est": {
+                "official": "L\u00e4\u00e4ne-Sahara",
+                "common": "L\u00e4\u00e4ne-Sahara"
+            },
+            "fin": {
+                "official": "L\u00e4nsi-Sahara",
+                "common": "L\u00e4nsi-Sahara"
+            },
+            "fra": {
+                "official": "R\u00e9publique arabe sahraouie d\u00e9mocratique",
+                "common": "Sahara Occidental"
+            },
+            "hrv": {
+                "official": "Sahrawi Arab Demokratska Republika",
+                "common": "Zapadna Sahara"
+            },
+            "hun": {
+                "official": "Nyugat-Szahara",
+                "common": "Nyugat-Szahara"
+            },
+            "ita": {
+                "official": "Repubblica Araba Saharawi Democratica",
+                "common": "Sahara Occidentale"
+            },
+            "jpn": {
+                "official": "\u30b5\u30cf\u30e9\u30a2\u30e9\u30d6\u6c11\u4e3b\u5171\u548c\u56fd",
+                "common": "\u897f\u30b5\u30cf\u30e9"
+            },
+            "kor": {
+                "official": "\uc0ac\ud558\ub77c \uc544\ub78d \ubbfc\uc8fc \uacf5\ud654\uad6d",
+                "common": "\uc11c\uc0ac\ud558\ub77c"
+            },
+            "nld": {
+                "official": "Sahrawi Arabische Democratische Republiek",
+                "common": "Westelijke Sahara"
+            },
+            "per": {
+                "official": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc",
+                "common": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc"
+            },
+            "pol": {
+                "official": "Saharyjska Arabska Republika Demokratyczna",
+                "common": "Sahara Zachodnia"
+            },
+            "por": {
+                "official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
+                "common": "Saara Ocidental"
+            },
+            "rus": {
+                "official": "Sahrawi \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u0430"
+            },
+            "slk": {
+                "official": "Z\u00e1padn\u00e1 Sahara",
+                "common": "Z\u00e1padn\u00e1 Sahara"
+            },
+            "spa": {
+                "official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
+                "common": "Sahara Occidental"
+            },
+            "srp": {
+                "official": "\u0421\u0430\u0445\u0430\u0440\u0441\u043a\u0430 \u0410\u0440\u0430\u043f\u0441\u043a\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0421\u0430\u0445\u0430\u0440\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+            },
+            "swe": {
+                "official": "V\u00e4stsahara",
+                "common": "V\u00e4stsahara"
+            },
+            "tur": {
+                "official": "Sahra Demokratik Arap Cumhuriyeti",
+                "common": "Sahra Demokratik Arap Cumhuriyeti"
+            },
+            "urd": {
+                "official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
+                "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
+            },
+            "zho": {
+                "official": "\u963f\u62c9\u4f2f\u6492\u54c8\u62c9\u6c11\u4e3b\u5171\u548c\u56fd",
+                "common": "\u897f\u6492\u54c8\u62c9"
+            }
+        },
+        "latlng": [
+            24.5,
+            -13.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "DZA",
+            "MRT",
+            "MAR"
+        ],
+        "area": 266000.0,
+        "demonyms": {
+            "eng": {
+                "f": "Sahrawi",
+                "m": "Sahrawi"
+            }
+        },
+        "flag": "\ud83c\uddea\ud83c\udded",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/5441968"
+        },
+        "population": 510713,
+        "car": {
+            "signs": [
+                ""
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/eh.png",
+            "svg": "https://flagcdn.com/eh.svg"
+        },
+        "coatOfArms": {},
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -13.28,
+                27.14
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "Colombia",
+            "official": "Republic of Colombia",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Colombia",
+                    "common": "Colombia"
+                }
+            }
+        },
+        "tld": [
+            ".co"
+        ],
+        "cca2": "CO",
+        "ccn3": "170",
+        "cca3": "COL",
+        "cioc": "COL",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "7"
+            ]
+        },
+        "capital": [
+            "Bogot\u00e1"
+        ],
+        "altSpellings": [
+            "CO",
+            "Republic of Colombia",
+            "Rep\u00fablica de Colombia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627",
+                "common": "\u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627"
+            },
+            "bre": {
+                "official": "Republik Kolombia",
+                "common": "Kolombia"
+            },
+            "ces": {
+                "official": "Kolumbijsk\u00e1 republika",
+                "common": "Kolumbie"
+            },
+            "cym": {
+                "official": "Gweriniaeth Colombia",
+                "common": "Colombia"
+            },
+            "deu": {
+                "official": "Republik Kolumbien",
+                "common": "Kolumbien"
+            },
+            "est": {
+                "official": "Colombia Vabariik",
+                "common": "Colombia"
+            },
+            "fin": {
+                "official": "Kolumbian tasavalta",
+                "common": "Kolumbia"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Colombie",
+                "common": "Colombie"
+            },
+            "hrv": {
+                "official": "Republika Kolumbija",
+                "common": "Kolumbija"
+            },
+            "hun": {
+                "official": "Kolumbiai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Kolumbia"
+            },
+            "ita": {
+                "official": "Repubblica di Colombia",
+                "common": "Colombia"
+            },
+            "jpn": {
+                "official": "\u30b3\u30ed\u30f3\u30d3\u30a2\u5171\u548c\u56fd",
+                "common": "\u30b3\u30ed\u30f3\u30d3\u30a2"
+            },
+            "kor": {
+                "official": "\ucf5c\ub86c\ube44\uc544 \uacf5\ud654\uad6d",
+                "common": "\ucf5c\ub86c\ube44\uc544"
+            },
+            "nld": {
+                "official": "Republiek Colombia",
+                "common": "Colombia"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627",
+                "common": "\u06a9\u0644\u0645\u0628\u06cc\u0627"
+            },
+            "pol": {
+                "official": "Republika Kolumbii",
+                "common": "Kolumbia"
+            },
+            "por": {
+                "official": "Rep\u00fablica da Col\u00f4mbia",
+                "common": "Col\u00f4mbia"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+                "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
+            },
+            "slk": {
+                "official": "Kolumbijsk\u00e1 republika",
+                "common": "Kolumbia"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Colombia",
+                "common": "Colombia"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0458\u0430",
+                "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0458\u0430"
+            },
+            "swe": {
+                "official": "Republiken Colombia",
+                "common": "Colombia"
+            },
+            "tur": {
+                "official": "Kolombiya Cumhuriyeti",
+                "common": "Kolombiya"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627",
+                "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
+            },
+            "zho": {
+                "official": "\u54e5\u4f26\u6bd4\u4e9a\u5171\u548c\u56fd",
+                "common": "\u54e5\u4f26\u6bd4\u4e9a"
+            }
+        },
+        "latlng": [
+            4.0,
+            -72.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "area": 1141748.0,
+        "demonyms": {
+            "eng": {
+                "f": "Colombian",
+                "m": "Colombian"
+            },
+            "fra": {
+                "f": "Colombienne",
+                "m": "Colombien"
+            }
+        },
+        "flag": "\ud83c\udde8\ud83c\uddf4",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+        },
+        "population": 50882884,
+        "gini": {
+            "2019": 51.3
+        },
+        "fifa": "COL",
+        "car": {
+            "signs": [
+                "CO"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/co.png",
+            "svg": "https://flagcdn.com/co.svg",
+            "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                4.71,
+                -74.07
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "Equatorial Guinea",
+            "official": "Republic of Equatorial Guinea",
+            "nativeName": {
+                "fra": {
+                    "official": "R\u00e9publique de la Guin\u00e9e \u00c9quatoriale",
+                    "common": "Guin\u00e9e \u00e9quatoriale"
+                },
+                "por": {
+                    "official": "Rep\u00fablica da Guin\u00e9 Equatorial",
+                    "common": "Guin\u00e9 Equatorial"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica de Guinea Ecuatorial",
+                    "common": "Guinea Ecuatorial"
+                }
+            }
+        },
+        "tld": [
+            ".gq"
+        ],
+        "cca2": "GQ",
+        "ccn3": "226",
+        "cca3": "GNQ",
+        "cioc": "GEQ",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "40"
+            ]
+        },
+        "capital": [
+            "Malabo"
+        ],
+        "altSpellings": [
+            "GQ",
+            "Republic of Equatorial Guinea",
+            "Rep\u00fablica de Guinea Ecuatorial",
+            "R\u00e9publique de Guin\u00e9e \u00e9quatoriale",
+            "Rep\u00fablica da Guin\u00e9 Equatorial"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "por": "Portuguese",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629",
+                "common": "\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629"
+            },
+            "bre": {
+                "official": "Republik Ginea ar C'heheder",
+                "common": "Ginea ar C'heheder"
+            },
+            "ces": {
+                "official": "Republika Rovn\u00edkov\u00e1 Guinea",
+                "common": "Rovn\u00edkov\u00e1 Guinea"
+            },
+            "cym": {
+                "official": "Gweriniaeth Gini Gyhydeddol",
+                "common": "Gini Gyhydeddol"
+            },
+            "deu": {
+                "official": "Republik \u00c4quatorialguinea",
+                "common": "\u00c4quatorialguinea"
+            },
+            "est": {
+                "official": "Ekvatoriaal-Guinea Vabariik",
+                "common": "Ekvatoriaal-Guinea"
+            },
+            "fin": {
+                "official": "P\u00e4iv\u00e4ntasaajan Guinean tasavalta",
+                "common": "P\u00e4iv\u00e4ntasaajan Guinea"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Guin\u00e9e \u00e9quatoriale",
+                "common": "Guin\u00e9e \u00e9quatoriale"
+            },
+            "hrv": {
+                "official": "Republika Ekvatorska Gvineja",
+                "common": "Ekvatorijalna Gvineja"
+            },
+            "hun": {
+                "official": "Egyenl\u00edt\u0151i-Guinea-i K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Egyenl\u00edt\u0151i-Guinea"
+            },
+            "ita": {
+                "official": "Repubblica della Guinea Equatoriale",
+                "common": "Guinea Equatoriale"
+            },
+            "jpn": {
+                "official": "\u8d64\u9053\u30ae\u30cb\u30a2\u5171\u548c\u56fd",
+                "common": "\u8d64\u9053\u30ae\u30cb\u30a2"
+            },
+            "kor": {
+                "official": "\uc801\ub3c4 \uae30\ub2c8 \uacf5\ud654\uad6d",
+                "common": "\uc801\ub3c4 \uae30\ub2c8"
+            },
+            "nld": {
+                "official": "Republiek Equatoriaal-Guinea",
+                "common": "Equatoriaal-Guinea"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc",
+                "common": "\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc"
+            },
+            "pol": {
+                "official": "Republika Gwinei R\u00f3wnikowej",
+                "common": "Gwinea R\u00f3wnikowa"
+            },
+            "por": {
+                "official": "Rep\u00fablica da Guin\u00e9 Equatorial",
+                "common": "Guin\u00e9 Equatorial"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+                "common": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"
+            },
+            "slk": {
+                "official": "Republika rovn\u00edkovej Guiney",
+                "common": "Rovn\u00edkov\u00e1 Guinea"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Guinea Ecuatorial",
+                "common": "Guinea Ecuatorial"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430\u043b\u043d\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430",
+                "common": "\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430\u043b\u043d\u0430 \u0413\u0432\u0438\u043d\u0435\u0458\u0430"
+            },
+            "swe": {
+                "official": "Republiken Ekvatorialguinea",
+                "common": "Ekvatorialguinea"
+            },
+            "tur": {
+                "official": "Ekvator Ginesi Cumhuriyeti",
+                "common": "Ekvator Ginesi"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc",
+                "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"
+            },
+            "zho": {
+                "official": "\u8d64\u9053\u51e0\u5185\u4e9a\u5171\u548c\u56fd",
+                "common": "\u8d64\u9053\u51e0\u5185\u4e9a"
+            }
+        },
+        "latlng": [
+            2.0,
+            10.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "CMR",
+            "GAB"
+        ],
+        "area": 28051.0,
+        "demonyms": {
+            "eng": {
+                "f": "Equatorial Guinean",
+                "m": "Equatorial Guinean"
+            },
+            "fra": {
+                "f": "\u00c9quato-guin\u00e9enne",
+                "m": "\u00c9quato-guin\u00e9en"
+            }
+        },
+        "flag": "\ud83c\uddec\ud83c\uddf6",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
+        },
+        "population": 1402985,
+        "fifa": "EQG",
+        "car": {
+            "signs": [
+                "GQ"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Africa"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gq.png",
+            "svg": "https://flagcdn.com/gq.svg",
+            "alt": "The flag of Equatorial Guinea is composed of three equal horizontal bands of green, white and red with the national coat of arms centered in the white band and an isosceles triangle superimposed on the hoist side of the field. The triangle is light blue, has its base on the hoist end and spans about one-fifth the width of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                3.75,
+                8.78
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Bolivariana de Venezuela",
+                    "common": "Venezuela"
+                }
+            }
+        },
+        "tld": [
+            ".ve"
+        ],
+        "cca2": "VE",
+        "ccn3": "862",
+        "cca3": "VEN",
+        "cioc": "VEN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bol\u00edvar soberano",
+                "symbol": "Bs.S."
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "8"
+            ]
+        },
+        "capital": [
+            "Caracas"
+        ],
+        "altSpellings": [
+            "VE",
+            "Bolivarian Republic of Venezuela",
+            "Venezuela, Bolivarian Republic of",
+            "Rep\u00fablica Bolivariana de Venezuela"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0641\u0646\u0632\u0648\u064a\u0644\u0627 \u0627\u0644\u0628\u0648\u0644\u064a\u0641\u0627\u0631\u064a\u0629",
+                "common": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627"
+            },
+            "bre": {
+                "official": "Republik Volivarian Venezuela",
+                "common": "Venezuela"
+            },
+            "ces": {
+                "official": "Bol\u00edvarsk\u00e1 republika Venezuela",
+                "common": "Venezuela"
+            },
+            "cym": {
+                "official": "Bolivarian Republic of Venezuela",
+                "common": "Venezuela"
+            },
+            "deu": {
+                "official": "Bolivarische Republik Venezuela",
+                "common": "Venezuela"
+            },
+            "est": {
+                "official": "Venezuela Bol\u00edvari Vabariik",
+                "common": "Venezuela"
+            },
+            "fin": {
+                "official": "Venezuelan bolivariaainen tasavalta",
+                "common": "Venezuela"
+            },
+            "fra": {
+                "official": "R\u00e9publique bolivarienne du Venezuela",
+                "common": "Venezuela"
+            },
+            "hrv": {
+                "official": "BOLIVARIJANSKA Republika Venezuela",
+                "common": "Venezuela"
+            },
+            "hun": {
+                "official": "Venezuelai Boliv\u00e1ri K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Venezuela"
+            },
+            "ita": {
+                "official": "Repubblica Bolivariana del Venezuela",
+                "common": "Venezuela"
+            },
+            "jpn": {
+                "official": "\u30d9\u30cd\u30ba\u30a8\u30e9\u00b7\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
+                "common": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd"
+            },
+            "kor": {
+                "official": "\ubca0\ub124\uc218\uc5d8\ub77c \ubcfc\ub9ac\ubc14\ub974 \uacf5\ud654\uad6d",
+                "common": "\ubca0\ub124\uc218\uc5d8\ub77c"
+            },
+            "nld": {
+                "official": "Bolivariaanse Republiek Venezuela",
+                "common": "Venezuela"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u0627\u0631\u06cc \u0648\u0646\u0632\u0648\u0626\u0644\u0627",
+                "common": "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
+            },
+            "pol": {
+                "official": "Boliwaria\u0144ska Republika Wenezueli",
+                "common": "Wenezuela"
+            },
+            "por": {
+                "official": "Rep\u00fablica Bolivariana da Venezuela",
+                "common": "Venezuela"
+            },
+            "rus": {
+                "official": "\u0411\u043e\u043b\u0438\u0432\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+                "common": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
+            },
+            "slk": {
+                "official": "Venezuelsk\u00e1 bol\u00edvarovsk\u00e1 republika",
+                "common": "Venezuela"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Bolivariana de Venezuela",
+                "common": "Venezuela"
+            },
+            "srp": {
+                "official": "\u0411\u043e\u043b\u0438\u0432\u0430\u0440\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430",
+                "common": "\u0412\u0435\u043d\u0435\u0446\u0443\u0435\u043b\u0430"
+            },
+            "swe": {
+                "official": "Bolivarianska republiken Venezuela",
+                "common": "Venezuela"
+            },
+            "tur": {
+                "official": "Bolivarc\u0131 Venezuela Cumhuriyeti",
+                "common": "Venezuela"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627",
+                "common": "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"
+            },
+            "zho": {
+                "official": "\u59d4\u5185\u745e\u62c9\u73bb\u5229\u74e6\u5c14\u5171\u548c\u56fd",
+                "common": "\u59d4\u5185\u745e\u62c9"
+            }
+        },
+        "latlng": [
+            8.0,
+            -66.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BRA",
+            "COL",
+            "GUY"
+        ],
+        "area": 916445.0,
+        "demonyms": {
+            "eng": {
+                "f": "Venezuelan",
+                "m": "Venezuelan"
+            },
+            "fra": {
+                "f": "V\u00e9n\u00e9zu\u00e9lienne",
+                "m": "V\u00e9n\u00e9zu\u00e9lien"
+            }
+        },
+        "flag": "\ud83c\uddfb\ud83c\uddea",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+        },
+        "population": 28435943,
+        "gini": {
+            "2006": 44.8
+        },
+        "fifa": "VEN",
+        "car": {
+            "signs": [
+                "YV"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ve.png",
+            "svg": "https://flagcdn.com/ve.svg",
+            "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                10.48,
+                -66.87
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica del Ecuador",
+                    "common": "Ecuador"
+                }
+            }
+        },
+        "tld": [
+            ".ec"
+        ],
+        "cca2": "EC",
+        "ccn3": "218",
+        "cca3": "ECU",
+        "cioc": "ECU",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "93"
+            ]
+        },
+        "capital": [
+            "Quito"
+        ],
+        "altSpellings": [
+            "EC",
+            "Republic of Ecuador",
+            "Rep\u00fablica del Ecuador"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631"
+            },
+            "bre": {
+                "official": "Republik Ecuador",
+                "common": "Ecuador"
+            },
+            "ces": {
+                "official": "Ekv\u00e1dorsk\u00e1 republika",
+                "common": "Ekv\u00e1dor"
+            },
+            "cym": {
+                "official": "Gweriniaeth Ecwador",
+                "common": "Ecwador"
+            },
+            "deu": {
+                "official": "Republik Ecuador",
+                "common": "Ecuador"
+            },
+            "est": {
+                "official": "Ecuadori Vabariik",
+                "common": "Ecuador"
+            },
+            "fin": {
+                "official": "Ecuadorin tasavalta",
+                "common": "Ecuador"
+            },
+            "fra": {
+                "official": "R\u00e9publique de l'\u00c9quateur",
+                "common": "\u00c9quateur"
+            },
+            "hrv": {
+                "official": "Republika Ekvador",
+                "common": "Ekvador"
+            },
+            "hun": {
+                "official": "Ecuadori K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Ecuador"
+            },
+            "ita": {
+                "official": "Repubblica dell'Ecuador",
+                "common": "Ecuador"
+            },
+            "jpn": {
+                "official": "\u30a8\u30af\u30a2\u30c9\u30eb\u5171\u548c\u56fd",
+                "common": "\u30a8\u30af\u30a2\u30c9\u30eb"
+            },
+            "kor": {
+                "official": "\uc5d0\ucf70\ub3c4\ub974 \uacf5\ud654\uad6d",
+                "common": "\uc5d0\ucf70\ub3c4\ub974"
+            },
+            "nld": {
+                "official": "Republiek Ecuador",
+                "common": "Ecuador"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+            },
+            "pol": {
+                "official": "Ekwador",
+                "common": "Ekwador"
+            },
+            "por": {
+                "official": "Rep\u00fablica do Equador",
+                "common": "Equador"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+            },
+            "slk": {
+                "official": "Ekv\u00e1dorsk\u00e1 republika",
+                "common": "Ekv\u00e1dor"
+            },
+            "spa": {
+                "official": "Rep\u00fablica del Ecuador",
+                "common": "Ecuador"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u043a\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u0415\u043a\u0432\u0430\u0434\u043e\u0440"
+            },
+            "swe": {
+                "official": "Republiken Ecuador",
+                "common": "Ecuador"
+            },
+            "tur": {
+                "official": "Ekvador Cumhuriyeti",
+                "common": "Ekvador"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631",
+                "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+            },
+            "zho": {
+                "official": "\u5384\u74dc\u591a\u5c14\u5171\u548c\u56fd",
+                "common": "\u5384\u74dc\u591a\u5c14"
+            }
+        },
+        "latlng": [
+            -2.0,
+            -77.5
+        ],
+        "landlocked": false,
+        "borders": [
+            "COL",
+            "PER"
+        ],
+        "area": 276841.0,
+        "demonyms": {
+            "eng": {
+                "f": "Ecuadorean",
+                "m": "Ecuadorean"
+            },
+            "fra": {
+                "f": "\u00c9quatorienne",
+                "m": "\u00c9quatorien"
+            }
+        },
+        "flag": "\ud83c\uddea\ud83c\udde8",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+        },
+        "population": 17643060,
+        "gini": {
+            "2019": 45.7
+        },
+        "fifa": "ECU",
+        "car": {
+            "signs": [
+                "EC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ec.png",
+            "svg": "https://flagcdn.com/ec.svg",
+            "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ec.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ec.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -0.22,
+                -78.5
+            ]
+        },
+        "postalCode": {
+            "format": "@####@",
+            "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+        }
+    },
+    {
+        "name": {
+            "common": "Guam",
+            "official": "Guam",
+            "nativeName": {
+                "cha": {
+                    "official": "Gu\u00e5h\u00e5n",
+                    "common": "Gu\u00e5h\u00e5n"
+                },
+                "eng": {
+                    "official": "Guam",
+                    "common": "Guam"
+                },
+                "spa": {
+                    "official": "Guam",
+                    "common": "Guam"
+                }
+            }
+        },
+        "tld": [
+            ".gu"
+        ],
+        "cca2": "GU",
+        "ccn3": "316",
+        "cca3": "GUM",
+        "cioc": "GUM",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "671"
+            ]
+        },
+        "capital": [
+            "Hag\u00e5t\u00f1a"
+        ],
+        "altSpellings": [
+            "GU",
+            "Gu\u00e5h\u00e5n"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cha": "Chamorro",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u063a\u0648\u0627\u0645",
+                "common": "\u063a\u0648\u0627\u0645"
+            },
+            "bre": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "ces": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "cym": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "deu": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "est": {
+                "official": "Guami ala",
+                "common": "Guam"
+            },
+            "fin": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "fra": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "hrv": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "hun": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "ita": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "jpn": {
+                "official": "\u30b0\u30a2\u30e0",
+                "common": "\u30b0\u30a2\u30e0"
+            },
+            "kor": {
+                "official": "\uad0c",
+                "common": "\uad0c"
+            },
+            "nld": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "per": {
+                "official": "\u06af\u0648\u0622\u0645",
+                "common": "\u06af\u0648\u0622\u0645"
+            },
+            "pol": {
+                "official": "Terytorium Guamu",
+                "common": "Guam"
+            },
+            "por": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "rus": {
+                "official": "\u0413\u0443\u0430\u043c",
+                "common": "\u0413\u0443\u0430\u043c"
+            },
+            "slk": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "spa": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "srp": {
+                "official": "\u0413\u0443\u0430\u043c",
+                "common": "\u0413\u0443\u0430\u043c"
+            },
+            "swe": {
+                "official": "Guam",
+                "common": "Guam"
+            },
+            "tur": {
+                "official": "Guam Topra\u011f\u0131",
+                "common": "Guam"
+            },
+            "urd": {
+                "official": "\u06af\u0648\u0627\u0645",
+                "common": "\u06af\u0648\u0627\u0645"
+            },
+            "zho": {
+                "official": "\u5173\u5c9b",
+                "common": "\u5173\u5c9b"
+            }
+        },
+        "latlng": [
+            13.46666666,
+            144.78333333
+        ],
+        "landlocked": false,
+        "area": 549.0,
+        "demonyms": {
+            "eng": {
+                "f": "Guamanian",
+                "m": "Guamanian"
+            }
+        },
+        "flag": "\ud83c\uddec\ud83c\uddfa",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/306001"
+        },
+        "population": 168783,
+        "fifa": "GUM",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "continents": [
+            "Oceania"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gu.png",
+            "svg": "https://flagcdn.com/gu.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gu.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gu.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                13.48,
+                144.75
+            ]
+        },
+        "postalCode": {
+            "format": "969##",
+            "regex": "^(969\\d{2})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay",
+            "nativeName": {
+                "grn": {
+                    "official": "Tet\u00e3 Paragu\u00e1i",
+                    "common": "Paragu\u00e1i"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica de Paraguay",
+                    "common": "Paraguay"
+                }
+            }
+        },
+        "tld": [
+            ".py"
+        ],
+        "cca2": "PY",
+        "ccn3": "600",
+        "cca3": "PRY",
+        "cioc": "PAR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaran\u00ed",
+                "symbol": "\u20b2"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "95"
+            ]
+        },
+        "capital": [
+            "Asunci\u00f3n"
+        ],
+        "altSpellings": [
+            "PY",
+            "Republic of Paraguay",
+            "Rep\u00fablica del Paraguay",
+            "Tet\u00e3 Paragu\u00e1i"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a",
+                "common": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a"
+            },
+            "bre": {
+                "official": "Republik Paraguay",
+                "common": "Paraguay"
+            },
+            "ces": {
+                "official": "Paraguaysk\u00e1 republika",
+                "common": "Paraguay"
+            },
+            "cym": {
+                "official": "Republic of Paraguay",
+                "common": "Paraguay"
+            },
+            "deu": {
+                "official": "Republik Paraguay",
+                "common": "Paraguay"
+            },
+            "est": {
+                "official": "Paraguay Vabariik",
+                "common": "Paraguay"
+            },
+            "fin": {
+                "official": "Paraguayn tasavalta",
+                "common": "Paraguay"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Paraguay",
+                "common": "Paraguay"
+            },
+            "hrv": {
+                "official": "Republika Paragvaj",
+                "common": "Paragvaj"
+            },
+            "hun": {
+                "official": "Paraguayi K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Paraguay"
+            },
+            "ita": {
+                "official": "Repubblica del Paraguay",
+                "common": "Paraguay"
+            },
+            "jpn": {
+                "official": "\u30d1\u30e9\u30b0\u30a2\u30a4\u5171\u548c\u56fd",
+                "common": "\u30d1\u30e9\u30b0\u30a2\u30a4"
+            },
+            "kor": {
+                "official": "\ud30c\ub77c\uacfc\uc774 \uacf5\ud654\uad6d",
+                "common": "\ud30c\ub77c\uacfc\uc774"
+            },
+            "nld": {
+                "official": "Republiek Paraguay",
+                "common": "Paraguay"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+                "common": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+            },
+            "pol": {
+                "official": "Republika Paragwaju",
+                "common": "Paragwaj"
+            },
+            "por": {
+                "official": "Rep\u00fablica do Paraguai",
+                "common": "Paraguai"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+                "common": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
+            },
+            "slk": {
+                "official": "Paraguajsk\u00e1 republika",
+                "common": "Paraguaj"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Paraguay",
+                "common": "Paraguay"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458",
+                "common": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0458"
+            },
+            "swe": {
+                "official": "Republiken Paraguay",
+                "common": "Paraguay"
+            },
+            "tur": {
+                "official": "Paraguay Cumhuriyeti",
+                "common": "Paraguay"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2",
+                "common": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
+            },
+            "zho": {
+                "official": "\u5df4\u62c9\u572d\u5171\u548c\u56fd",
+                "common": "\u5df4\u62c9\u572d"
+            }
+        },
+        "latlng": [
+            -23.0,
+            -58.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "ARG",
+            "BOL",
+            "BRA"
+        ],
+        "area": 406752.0,
+        "demonyms": {
+            "eng": {
+                "f": "Paraguayan",
+                "m": "Paraguayan"
+            },
+            "fra": {
+                "f": "Paraguayenne",
+                "m": "Paraguayen"
+            }
+        },
+        "flag": "\ud83c\uddf5\ud83c\uddfe",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287077"
+        },
+        "population": 7132530,
+        "gini": {
+            "2019": 45.7
+        },
+        "fifa": "PAR",
+        "car": {
+            "signs": [
+                "PY"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/py.png",
+            "svg": "https://flagcdn.com/py.svg",
+            "alt": "The flag of Paraguay features three equal horizontal bands of red, white and blue, with an emblem centered in the white band. On the obverse side of the flag depicted, this emblem is the national coat of arms."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/py.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/py.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -25.28,
+                -57.57
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Puerto Rico",
+            "official": "Commonwealth of Puerto Rico",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Puerto Rico",
+                    "common": "Puerto Rico"
+                },
+                "spa": {
+                    "official": "Estado Libre Asociado de Puerto Rico",
+                    "common": "Puerto Rico"
+                }
+            }
+        },
+        "tld": [
+            ".pr"
+        ],
+        "cca2": "PR",
+        "ccn3": "630",
+        "cca3": "PRI",
+        "cioc": "PUR",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "787",
+                "939"
+            ]
+        },
+        "capital": [
+            "San Juan"
+        ],
+        "altSpellings": [
+            "PR",
+            "Commonwealth of Puerto Rico",
+            "Estado Libre Asociado de Puerto Rico"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0643\u0648\u0645\u0646\u0648\u0644\u062b \u0628\u0648\u064a\u0631\u062a\u0648\u0631\u064a\u0643\u0648",
+                "common": "\u0628\u0648\u064a\u0631\u062a\u0648\u0631\u064a\u0643\u0648"
+            },
+            "bre": {
+                "official": "Kenglad Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "ces": {
+                "official": "Portoriko",
+                "common": "Portoriko"
+            },
+            "cym": {
+                "official": "Commonwealth of Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "deu": {
+                "official": "Freistaat Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "est": {
+                "official": "Puerto Rico \u00dchendus",
+                "common": "Puerto Rico"
+            },
+            "fin": {
+                "official": "Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "fra": {
+                "official": "Porto Rico",
+                "common": "Porto Rico"
+            },
+            "hrv": {
+                "official": "Zajednica Puerto Rico",
+                "common": "Portoriko"
+            },
+            "hun": {
+                "official": "Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "ita": {
+                "official": "Commonwealth di Porto Rico",
+                "common": "Porto Rico"
+            },
+            "jpn": {
+                "official": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u30b3\u30e2\u30f3\u30a6\u30a7\u30eb\u30b9",
+                "common": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
+            },
+            "kor": {
+                "official": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54",
+                "common": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
+            },
+            "nld": {
+                "official": "Gemenebest van Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "per": {
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648",
+                "common": "\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+            },
+            "pol": {
+                "official": "Wolne Stowarzyszone Pa\u0144stwo Portoryko",
+                "common": "Portoryko"
+            },
+            "por": {
+                "official": "Commonwealth of Puerto Rico",
+                "common": "Porto Rico"
+            },
+            "rus": {
+                "official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+                "common": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
+            },
+            "slk": {
+                "official": "Portorick\u00e9 spolo\u010denstvo",
+                "common": "Portoriko"
+            },
+            "spa": {
+                "official": "Asociado de Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "srp": {
+                "official": "\u041a\u043e\u043c\u043e\u043d\u0432\u0435\u043b\u0442 \u041f\u043e\u0440\u0442\u043e\u0440\u0438\u043a\u043e",
+                "common": "\u041f\u043e\u0440\u0442\u043e\u0440\u0438\u043a\u043e"
+            },
+            "swe": {
+                "official": "Puerto Rico",
+                "common": "Puerto Rico"
+            },
+            "tur": {
+                "official": "Porto Riko Toplulu\u011fu",
+                "common": "Porto Riko"
+            },
+            "urd": {
+                "official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
+                "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
+            },
+            "zho": {
+                "official": "\u6ce2\u591a\u9ece\u5404\u8054\u90a6",
+                "common": "\u6ce2\u591a\u9ece\u5404"
+            }
+        },
+        "latlng": [
+            18.25,
+            -66.5
+        ],
+        "landlocked": false,
+        "area": 8870.0,
+        "demonyms": {
+            "eng": {
+                "f": "Puerto Rican",
+                "m": "Puerto Rican"
+            },
+            "fra": {
+                "f": "Portoricaine",
+                "m": "Portoricain"
+            }
+        },
+        "flag": "\ud83c\uddf5\ud83c\uddf7",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/4422604"
+        },
+        "population": 3194034,
+        "fifa": "PUR",
+        "car": {
+            "signs": [
+                "USA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pr.png",
+            "svg": "https://flagcdn.com/pr.svg"
+        },
+        "coatOfArms": {},
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                18.47,
+                -66.12
+            ]
+        },
+        "postalCode": {
+            "format": "#####-####",
+            "regex": "^(\\d{9})$"
+        }
+    },
+    {
+        "name": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de El Salvador",
+                    "common": "El Salvador"
+                }
+            }
+        },
+        "tld": [
+            ".sv"
+        ],
+        "cca2": "SV",
+        "ccn3": "222",
+        "cca3": "SLV",
+        "cioc": "ESA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "03"
+            ]
+        },
+        "capital": [
+            "San Salvador"
+        ],
+        "altSpellings": [
+            "SV",
+            "Republic of El Salvador",
+            "Rep\u00fablica de El Salvador"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631"
+            },
+            "bre": {
+                "official": "Republik El Salvador",
+                "common": "El Salvador"
+            },
+            "ces": {
+                "official": "Salvadorsk\u00e1 republika",
+                "common": "Salvador"
+            },
+            "cym": {
+                "official": "Gweriniaeth El Salfador",
+                "common": "El Salfador"
+            },
+            "deu": {
+                "official": "Republik El Salvador",
+                "common": "El Salvador"
+            },
+            "est": {
+                "official": "El Salvadori Vabariik",
+                "common": "El Salvador"
+            },
+            "fin": {
+                "official": "El Salvadorin tasavalta",
+                "common": "El Salvador"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Salvador",
+                "common": "Salvador"
+            },
+            "hrv": {
+                "official": "Republika El Salvador",
+                "common": "Salvador"
+            },
+            "hun": {
+                "official": "Salvadori K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Salvador"
+            },
+            "ita": {
+                "official": "Repubblica di El Salvador",
+                "common": "El Salvador"
+            },
+            "jpn": {
+                "official": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb\u5171\u548c\u56fd",
+                "common": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"
+            },
+            "kor": {
+                "official": "\uc5d8\uc0b4\ubc14\ub3c4\ub974 \uacf5\ud654\uad6d",
+                "common": "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
+            },
+            "nld": {
+                "official": "Republiek El Salvador",
+                "common": "El Salvador"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+            },
+            "pol": {
+                "official": "Republika Salwadoru",
+                "common": "Salwador"
+            },
+            "por": {
+                "official": "Rep\u00fablica de El Salvador",
+                "common": "El Salvador"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043b\u044c-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+            },
+            "slk": {
+                "official": "Salv\u00e1dorsk\u00e1 republika",
+                "common": "Salv\u00e1dor"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de El Salvador",
+                "common": "El Salvador"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u043b \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
+            },
+            "swe": {
+                "official": "Republiken El Salvador",
+                "common": "El Salvador"
+            },
+            "tur": {
+                "official": "El Salvador Cumhuriyeti",
+                "common": "El Salvador"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631",
+                "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
+            },
+            "zho": {
+                "official": "\u8428\u5c14\u74e6\u591a\u5171\u548c\u56fd",
+                "common": "\u8428\u5c14\u74e6\u591a"
+            }
+        },
+        "latlng": [
+            13.83333333,
+            -88.91666666
+        ],
+        "landlocked": false,
+        "borders": [
+            "GTM",
+            "HND"
+        ],
+        "area": 21041.0,
+        "demonyms": {
+            "eng": {
+                "f": "Salvadoran",
+                "m": "Salvadoran"
+            },
+            "fra": {
+                "f": "Salvadorienne",
+                "m": "Salvadorien"
+            }
+        },
+        "flag": "\ud83c\uddf8\ud83c\uddfb",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+        },
+        "population": 6486201,
+        "gini": {
+            "2019": 38.8
+        },
+        "fifa": "SLV",
+        "car": {
+            "signs": [
+                "ES"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/sv.png",
+            "svg": "https://flagcdn.com/sv.svg",
+            "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                13.7,
+                -89.2
+            ]
+        },
+        "postalCode": {
+            "format": "CP ####",
+            "regex": "^(?:CP)*(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Honduras",
+            "official": "Republic of Honduras",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Honduras",
+                    "common": "Honduras"
+                }
+            }
+        },
+        "tld": [
+            ".hn"
+        ],
+        "cca2": "HN",
+        "ccn3": "340",
+        "cca3": "HND",
+        "cioc": "HON",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "04"
+            ]
+        },
+        "capital": [
+            "Tegucigalpa"
+        ],
+        "altSpellings": [
+            "HN",
+            "Republic of Honduras",
+            "Rep\u00fablica de Honduras"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+                "common": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633"
+            },
+            "bre": {
+                "official": "Republik Honduras",
+                "common": "Honduras"
+            },
+            "ces": {
+                "official": "Hondurask\u00e1 republika",
+                "common": "Honduras"
+            },
+            "cym": {
+                "official": "Republic of Honduras",
+                "common": "Honduras"
+            },
+            "deu": {
+                "official": "Republik Honduras",
+                "common": "Honduras"
+            },
+            "est": {
+                "official": "Hondurase Vabariik",
+                "common": "Honduras"
+            },
+            "fin": {
+                "official": "Hondurasin tasavalta",
+                "common": "Honduras"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Honduras",
+                "common": "Honduras"
+            },
+            "hrv": {
+                "official": "Republika Honduras",
+                "common": "Honduras"
+            },
+            "hun": {
+                "official": "Hondurasi K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Honduras"
+            },
+            "ita": {
+                "official": "Repubblica di Honduras",
+                "common": "Honduras"
+            },
+            "jpn": {
+                "official": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u5171\u548c\u56fd",
+                "common": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9"
+            },
+            "kor": {
+                "official": "\uc628\ub450\ub77c\uc2a4 \uacf5\ud654\uad6d",
+                "common": "\uc628\ub450\ub77c\uc2a4"
+            },
+            "nld": {
+                "official": "Republiek Honduras",
+                "common": "Honduras"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+                "common": "\u0647\u064f\u0646\u062f\u0648\u0631\u0627\u0633"
+            },
+            "pol": {
+                "official": "Republika Hondurasu",
+                "common": "Honduras"
+            },
+            "por": {
+                "official": "Rep\u00fablica de Honduras",
+                "common": "Honduras"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+                "common": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+            },
+            "slk": {
+                "official": "Hondurask\u00e1 republika",
+                "common": "Honduras"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Honduras",
+                "common": "Honduras"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+                "common": "\u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+            },
+            "swe": {
+                "official": "Republiken Honduras",
+                "common": "Honduras"
+            },
+            "tur": {
+                "official": "Honduras Cumhuriyeti",
+                "common": "Honduras"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633",
+                "common": "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
+            },
+            "zho": {
+                "official": "\u6d2a\u90fd\u62c9\u65af\u5171\u548c\u56fd",
+                "common": "\u6d2a\u90fd\u62c9\u65af"
+            }
+        },
+        "latlng": [
+            15.0,
+            -86.5
+        ],
+        "landlocked": false,
+        "borders": [
+            "GTM",
+            "SLV",
+            "NIC"
+        ],
+        "area": 112492.0,
+        "demonyms": {
+            "eng": {
+                "f": "Honduran",
+                "m": "Honduran"
+            },
+            "fra": {
+                "f": "Hondurienne",
+                "m": "Hondurien"
+            }
+        },
+        "flag": "\ud83c\udded\ud83c\uddf3",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+        },
+        "population": 9904608,
+        "gini": {
+            "2019": 48.2
+        },
+        "fifa": "HON",
+        "car": {
+            "signs": [
+                "HN"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/hn.png",
+            "svg": "https://flagcdn.com/hn.svg",
+            "alt": "The flag of Honduras is composed of three equal horizontal bands of turquoise, white and turquoise, with five small five-pointed turquoise stars arranged in a quincuncial pattern at the center of the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                14.1,
+                -87.22
+            ]
+        },
+        "postalCode": {
+            "format": "@@####",
+            "regex": "^([A-Z]{2}\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Panam\u00e1",
+                    "common": "Panam\u00e1"
+                }
+            }
+        },
+        "tld": [
+            ".pa"
+        ],
+        "cca2": "PA",
+        "ccn3": "591",
+        "cca3": "PAN",
+        "cioc": "PAN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "07"
+            ]
+        },
+        "capital": [
+            "Panama City"
+        ],
+        "altSpellings": [
+            "PA",
+            "Republic of Panama",
+            "Rep\u00fablica de Panam\u00e1"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u0646\u0645\u0627",
+                "common": "\u0628\u0646\u0645\u0627"
+            },
+            "bre": {
+                "official": "Republik Panama",
+                "common": "Panama"
+            },
+            "ces": {
+                "official": "Panamsk\u00e1 republika",
+                "common": "Panama"
+            },
+            "cym": {
+                "official": "Republic of Panama",
+                "common": "Panama"
+            },
+            "deu": {
+                "official": "Republik Panama",
+                "common": "Panama"
+            },
+            "est": {
+                "official": "Panama Vabariik",
+                "common": "Panama"
+            },
+            "fin": {
+                "official": "Panaman tasavalta",
+                "common": "Panama"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Panama",
+                "common": "Panama"
+            },
+            "hrv": {
+                "official": "Republika Panama",
+                "common": "Panama"
+            },
+            "hun": {
+                "official": "Panamai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Panama"
+            },
+            "ita": {
+                "official": "Repubblica di Panama",
+                "common": "Panama"
+            },
+            "jpn": {
+                "official": "\u30d1\u30ca\u30de\u5171\u548c\u56fd",
+                "common": "\u30d1\u30ca\u30de"
+            },
+            "kor": {
+                "official": "\ud30c\ub098\ub9c8 \uacf5\ud654\uad6d",
+                "common": "\ud30c\ub098\ub9c8"
+            },
+            "nld": {
+                "official": "Republiek Panama",
+                "common": "Panama"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0646\u0627\u0645\u0627",
+                "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
+            },
+            "pol": {
+                "official": "Republika Panamy",
+                "common": "Panama"
+            },
+            "por": {
+                "official": "Rep\u00fablica do Panam\u00e1",
+                "common": "Panam\u00e1"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043d\u0430\u043c\u0430",
+                "common": "\u041f\u0430\u043d\u0430\u043c\u0430"
+            },
+            "slk": {
+                "official": "Panamsk\u00e1 republika",
+                "common": "Panama"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Panam\u00e1",
+                "common": "Panam\u00e1"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043d\u0430\u043c\u0430",
+                "common": "\u041f\u0430\u043d\u0430\u043c\u0430"
+            },
+            "swe": {
+                "official": "Republiken Panama",
+                "common": "Panama"
+            },
+            "tur": {
+                "official": "Panama Cumhuriyeti",
+                "common": "Panama"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627",
+                "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
+            },
+            "zho": {
+                "official": "\u5df4\u62ff\u9a6c\u5171\u548c\u56fd",
+                "common": "\u5df4\u62ff\u9a6c"
+            }
+        },
+        "latlng": [
+            9.0,
+            -80.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "COL",
+            "CRI"
+        ],
+        "area": 75417.0,
+        "demonyms": {
+            "eng": {
+                "f": "Panamanian",
+                "m": "Panamanian"
+            },
+            "fra": {
+                "f": "Panam\u00e9enne",
+                "m": "Panam\u00e9en"
+            }
+        },
+        "flag": "\ud83c\uddf5\ud83c\udde6",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+        },
+        "population": 4314768,
+        "gini": {
+            "2019": 49.8
+        },
+        "fifa": "PAN",
+        "car": {
+            "signs": [
+                "PA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pa.png",
+            "svg": "https://flagcdn.com/pa.svg",
+            "alt": "The flag of Panama is composed of four equal rectangular areas \u2014 a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area \u2014 in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                8.97,
+                -79.53
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain",
+            "nativeName": {
+                "spa": {
+                    "official": "Reino de Espa\u00f1a",
+                    "common": "Espa\u00f1a"
+                }
+            }
+        },
+        "tld": [
+            ".es"
+        ],
+        "cca2": "ES",
+        "ccn3": "724",
+        "cca3": "ESP",
+        "cioc": "ESP",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "Madrid"
+        ],
+        "altSpellings": [
+            "ES",
+            "Kingdom of Spain",
+            "Reino de Espa\u00f1a"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "spa": "Spanish",
+            "cat": "Catalan",
+            "eus": "Basque",
+            "glc": "Galician"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0625\u0633\u0628\u0627\u0646\u064a\u0627",
+                "common": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627"
+            },
+            "bre": {
+                "official": "Rouantelezh Spagn",
+                "common": "Spagn"
+            },
+            "ces": {
+                "official": "\u0160pan\u011blsk\u00e9 kr\u00e1lovstv\u00ed",
+                "common": "\u0160pan\u011blsko"
+            },
+            "cym": {
+                "official": "Kingdom of Spain",
+                "common": "Spain"
+            },
+            "deu": {
+                "official": "K\u00f6nigreich Spanien",
+                "common": "Spanien"
+            },
+            "est": {
+                "official": "Hispaania Kuningriik",
+                "common": "Hispaania"
+            },
+            "fin": {
+                "official": "Espanjan kuningaskunta",
+                "common": "Espanja"
+            },
+            "fra": {
+                "official": "Royaume d'Espagne",
+                "common": "Espagne"
+            },
+            "hrv": {
+                "official": "Kraljevina \u0160panjolska",
+                "common": "\u0160panjolska"
+            },
+            "hun": {
+                "official": "Spanyol Kir\u00e1lys\u00e1g",
+                "common": "Spanyolorsz\u00e1g"
+            },
+            "ita": {
+                "official": "Regno di Spagna",
+                "common": "Spagna"
+            },
+            "jpn": {
+                "official": "\u30b9\u30da\u30a4\u30f3\u738b\u56fd",
+                "common": "\u30b9\u30da\u30a4\u30f3"
+            },
+            "kor": {
+                "official": "\uc5d0\uc2a4\ud30c\ub0d0 \uc655\uad6d",
+                "common": "\uc2a4\ud398\uc778"
+            },
+            "nld": {
+                "official": "Koninkrijk Spanje",
+                "common": "Spanje"
+            },
+            "per": {
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627",
+                "common": "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627"
+            },
+            "pol": {
+                "official": "Kr\u00f3lestwo Hiszpanii ",
+                "common": "Hiszpania"
+            },
+            "por": {
+                "official": "Reino de Espanha",
+                "common": "Espanha"
+            },
+            "rus": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+                "common": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+            },
+            "slk": {
+                "official": "\u0160panielske kr\u00e1\u013eovstvo",
+                "common": "\u0160panielsko"
+            },
+            "spa": {
+                "official": "Reino de Espa\u00f1a",
+                "common": "Espa\u00f1a"
+            },
+            "srp": {
+                "official": "\u041a\u0440\u0430\u0459\u0435\u0432\u0438\u043d\u0430 \u0428\u043f\u0430\u043d\u0438\u0458\u0430",
+                "common": "\u0428\u043f\u0430\u043d\u0438\u0458\u0430"
+            },
+            "swe": {
+                "official": "Konungariket Spanien",
+                "common": "Spanien"
+            },
+            "tur": {
+                "official": "\u0130spanya Krall\u0131\u011f\u0131",
+                "common": "\u0130spanya"
+            },
+            "urd": {
+                "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1",
+                "common": "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"
+            },
+            "zho": {
+                "official": "\u897f\u73ed\u7259\u738b\u56fd",
+                "common": "\u897f\u73ed\u7259"
+            }
+        },
+        "latlng": [
+            40.0,
+            -4.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "area": 505992.0,
+        "demonyms": {
+            "eng": {
+                "f": "Spanish",
+                "m": "Spanish"
+            },
+            "fra": {
+                "f": "Espagnole",
+                "m": "Espagnol"
+            }
+        },
+        "flag": "\ud83c\uddea\ud83c\uddf8",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+        },
+        "population": 47351567,
+        "gini": {
+            "2018": 34.7
+        },
+        "fifa": "ESP",
+        "car": {
+            "signs": [
+                "E"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/es.png",
+            "svg": "https://flagcdn.com/es.svg",
+            "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/es.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/es.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                40.4,
+                -3.68
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia",
+            "nativeName": {
+                "aym": {
+                    "official": "Wuliwya Suyu",
+                    "common": "Wuliwya"
+                },
+                "grn": {
+                    "official": "Tet\u00e3 Vol\u00edvia",
+                    "common": "Vol\u00edvia"
+                },
+                "que": {
+                    "official": "Buliwya Mamallaqta",
+                    "common": "Buliwya"
+                },
+                "spa": {
+                    "official": "Estado Plurinacional de Bolivia",
+                    "common": "Bolivia"
+                }
+            }
+        },
+        "tld": [
+            ".bo"
+        ],
+        "cca2": "BO",
+        "ccn3": "068",
+        "cca3": "BOL",
+        "cioc": "BOL",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "91"
+            ]
+        },
+        "capital": [
+            "Sucre"
+        ],
+        "altSpellings": [
+            "BO",
+            "Buliwya",
+            "Wuliwya",
+            "Bolivia, Plurinational State of",
+            "Plurinational State of Bolivia",
+            "Estado Plurinacional de Bolivia",
+            "Buliwya Mamallaqta",
+            "Wuliwya Suyu",
+            "Tet\u00e3 Vol\u00edvia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062f\u0648\u0644\u0629 \u0628\u0648\u0644\u064a\u0641\u064a\u0627 \u0627\u0644\u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0642\u0648\u0645\u064a\u0627\u062a",
+                "common": "\u0628\u0648\u0644\u064a\u0641\u064a\u0627"
+            },
+            "bre": {
+                "official": "Stad Liesvroadel Bolivia",
+                "common": "Bolivia"
+            },
+            "ces": {
+                "official": "Mnohon\u00e1rodnostn\u00ed st\u00e1t Bol\u00edvie",
+                "common": "Bol\u00edvie"
+            },
+            "cym": {
+                "official": "Gweriniaeth Bolifia",
+                "common": "Bolifia"
+            },
+            "deu": {
+                "official": "Plurinationaler Staat Bolivien",
+                "common": "Bolivien"
+            },
+            "est": {
+                "official": "Boliivia Paljurahvuseline Riik",
+                "common": "Boliivia"
+            },
+            "fin": {
+                "official": "Bolivian monikansainen valtio",
+                "common": "Bolivia"
+            },
+            "fra": {
+                "official": "\u00c9tat plurinational de Bolivie",
+                "common": "Bolivie"
+            },
+            "hrv": {
+                "official": "Plurinational State of Bolivia",
+                "common": "Bolivija"
+            },
+            "hun": {
+                "official": "Bol\u00edviai T\u00f6bbnemzetis\u00e9g\u0171 \u00c1llam",
+                "common": "Bol\u00edvia"
+            },
+            "ita": {
+                "official": "Stato Plurinazionale della Bolivia",
+                "common": "Bolivia"
+            },
+            "jpn": {
+                "official": "\u30dc\u30ea\u30d3\u30a2\u306e\u591a\u6c11\u65cf\u56fd",
+                "common": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd"
+            },
+            "kor": {
+                "official": "\ubcfc\ub9ac\ube44\uc544 \ub2e4\ubbfc\uc871\uad6d",
+                "common": "\ubcfc\ub9ac\ube44\uc544"
+            },
+            "nld": {
+                "official": "Plurinationale Staat van Bolivia",
+                "common": "Bolivia"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u06cc",
+                "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc"
+            },
+            "pol": {
+                "official": "Wielonarodowe Pa\u0144stwo Boliwia",
+                "common": "Boliwia"
+            },
+            "por": {
+                "official": "Estado Plurinacional da Bol\u00edvia",
+                "common": "Bol\u00edvia"
+            },
+            "rus": {
+                "official": "\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+                "common": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
+            },
+            "slk": {
+                "official": "Bol\u00edvijsk\u00e1 republika",
+                "common": "Bol\u00edvia"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            },
+            "srp": {
+                "official": "\u0412\u0438\u0448\u0435\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0414\u0440\u0436\u0430\u0432\u0430 \u0411\u043e\u043b\u0438\u0432\u0438\u0458\u0430",
+                "common": "\u0411\u043e\u043b\u0438\u0432\u0438\u0458\u0430"
+            },
+            "swe": {
+                "official": "M\u00e5ngnationella staten Bolivia",
+                "common": "Bolivia"
+            },
+            "tur": {
+                "official": "Bolivya \u00c7okuluslu Devleti",
+                "common": "Bolivya"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627",
+                "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
+            },
+            "zho": {
+                "official": "\u591a\u6c11\u65cf\u73bb\u5229\u7ef4\u4e9a\u56fd",
+                "common": "\u73bb\u5229\u7ef4\u4e9a"
+            }
+        },
+        "latlng": [
+            -17.0,
+            -65.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "area": 1098581.0,
+        "demonyms": {
+            "eng": {
+                "f": "Bolivian",
+                "m": "Bolivian"
+            },
+            "fra": {
+                "f": "Bolivienne",
+                "m": "Bolivien"
+            }
+        },
+        "flag": "\ud83c\udde7\ud83c\uddf4",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/252645"
+        },
+        "population": 11673029,
+        "gini": {
+            "2019": 41.6
+        },
+        "fifa": "BOL",
+        "car": {
+            "signs": [
+                "BOL"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/bo.png",
+            "svg": "https://flagcdn.com/bo.svg",
+            "alt": "The flag of Bolivia is composed of three equal horizontal bands of red, yellow and green, with the national coat of arms centered in the yellow band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/bo.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/bo.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -19.02,
+                -65.26
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica Argentina",
+                    "common": "Argentina"
+                }
+            }
+        },
+        "tld": [
+            ".ar"
+        ],
+        "cca2": "AR",
+        "ccn3": "032",
+        "cca3": "ARG",
+        "cioc": "ARG",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "Buenos Aires"
+        ],
+        "altSpellings": [
+            "AR",
+            "Argentine Republic",
+            "Rep\u00fablica Argentina"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\u00ed",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646",
+                "common": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646"
+            },
+            "bre": {
+                "official": "Republik Arc'hantina",
+                "common": "Arc'hantina"
+            },
+            "ces": {
+                "official": "Argentinsk\u00e1 republika",
+                "common": "Argentina"
+            },
+            "cym": {
+                "official": "Gweriniaeth yr Ariannin",
+                "common": "Ariannin"
+            },
+            "deu": {
+                "official": "Argentinische Republik",
+                "common": "Argentinien"
+            },
+            "est": {
+                "official": "Argentina Vabariik",
+                "common": "Argentina"
+            },
+            "fin": {
+                "official": "Argentiinan tasavalta",
+                "common": "Argentiina"
+            },
+            "fra": {
+                "official": "R\u00e9publique argentine",
+                "common": "Argentine"
+            },
+            "hrv": {
+                "official": "Argentinski Republika",
+                "common": "Argentina"
+            },
+            "hun": {
+                "official": "Argentin K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Argent\u00edna"
+            },
+            "ita": {
+                "official": "Repubblica Argentina",
+                "common": "Argentina"
+            },
+            "jpn": {
+                "official": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd",
+                "common": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
+            },
+            "kor": {
+                "official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d",
+                "common": "\uc544\ub974\ud5e8\ud2f0\ub098"
+            },
+            "nld": {
+                "official": "Argentijnse Republiek",
+                "common": "Argentini\u00eb"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+                "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+            },
+            "pol": {
+                "official": "Republika Argenty\u0144ska",
+                "common": "Argentyna"
+            },
+            "por": {
+                "official": "Rep\u00fablica Argentina",
+                "common": "Argentina"
+            },
+            "rus": {
+                "official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+            },
+            "slk": {
+                "official": "Argent\u00ednska republika",
+                "common": "Argent\u00edna"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Argentina",
+                "common": "Argentina"
+            },
+            "srp": {
+                "official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+            },
+            "swe": {
+                "official": "Republiken Argentina",
+                "common": "Argentina"
+            },
+            "tur": {
+                "official": "Arjantin Cumhuriyeti",
+                "common": "Arjantin"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
+                "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+            },
+            "zho": {
+                "official": "\u963f\u6839\u5ef7\u5171\u548c\u56fd",
+                "common": "\u963f\u6839\u5ef7"
+            }
+        },
+        "latlng": [
+            -34.0,
+            -64.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "area": 2780400.0,
+        "demonyms": {
+            "eng": {
+                "f": "Argentine",
+                "m": "Argentine"
+            },
+            "fra": {
+                "f": "Argentine",
+                "m": "Argentin"
+            }
+        },
+        "flag": "\ud83c\udde6\ud83c\uddf7",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+        },
+        "population": 45376763,
+        "gini": {
+            "2019": 42.9
+        },
+        "fifa": "ARG",
+        "car": {
+            "signs": [
+                "RA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ar.png",
+            "svg": "https://flagcdn.com/ar.svg",
+            "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -34.58,
+                -58.67
+            ]
+        },
+        "postalCode": {
+            "format": "@####@@@",
+            "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru",
+            "nativeName": {
+                "aym": {
+                    "official": "Piruw Suyu",
+                    "common": "Piruw"
+                },
+                "que": {
+                    "official": "Piruw Ripuwlika",
+                    "common": "Piruw"
+                },
+                "spa": {
+                    "official": "Rep\u00fablica del Per\u00fa",
+                    "common": "Per\u00fa"
+                }
+            }
+        },
+        "tld": [
+            ".pe"
+        ],
+        "cca2": "PE",
+        "ccn3": "604",
+        "cca3": "PER",
+        "cioc": "PER",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/ "
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "capital": [
+            "Lima"
+        ],
+        "altSpellings": [
+            "PE",
+            "Republic of Peru",
+            "Rep\u00fablica del Per\u00fa"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0628\u064a\u0631\u0648",
+                "common": "\u0628\u064a\u0631\u0648"
+            },
+            "bre": {
+                "official": "Republik Perou",
+                "common": "Perou"
+            },
+            "ces": {
+                "official": "Peru\u00e1nsk\u00e1 republika",
+                "common": "Peru"
+            },
+            "cym": {
+                "official": "Republic of Peru",
+                "common": "Peru"
+            },
+            "deu": {
+                "official": "Republik Peru",
+                "common": "Peru"
+            },
+            "est": {
+                "official": "Peruu Vabariik",
+                "common": "Peruu"
+            },
+            "fin": {
+                "official": "Perun tasavalta",
+                "common": "Peru"
+            },
+            "fra": {
+                "official": "R\u00e9publique du P\u00e9rou",
+                "common": "P\u00e9rou"
+            },
+            "hrv": {
+                "official": "Republika Peru",
+                "common": "Peru"
+            },
+            "hun": {
+                "official": "Perui K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Peru"
+            },
+            "ita": {
+                "official": "Repubblica del Per\u00f9",
+                "common": "Per\u00f9"
+            },
+            "jpn": {
+                "official": "\u30da\u30eb\u30fc\u5171\u548c\u56fd",
+                "common": "\u30da\u30eb\u30fc"
+            },
+            "kor": {
+                "official": "\ud398\ub8e8 \uacf5\ud654\uad6d",
+                "common": "\ud398\ub8e8"
+            },
+            "nld": {
+                "official": "Republiek Peru",
+                "common": "Peru"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u0648",
+                "common": "\u067e\u0631\u0648"
+            },
+            "pol": {
+                "official": "Republika Peru",
+                "common": "Peru"
+            },
+            "por": {
+                "official": "Rep\u00fablica do Peru",
+                "common": "Per\u00fa"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0435\u0440\u0443",
+                "common": "\u041f\u0435\u0440\u0443"
+            },
+            "slk": {
+                "official": "Peru\u00e1nska republika",
+                "common": "Peru"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Per\u00fa",
+                "common": "Per\u00fa"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0435\u0440\u0443",
+                "common": "\u041f\u0435\u0440\u0443"
+            },
+            "swe": {
+                "official": "Republiken Peru",
+                "common": "Peru"
+            },
+            "tur": {
+                "official": "Peru Cumhuriyeti",
+                "common": "Peru"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648",
+                "common": "\u067e\u06cc\u0631\u0648"
+            },
+            "zho": {
+                "official": "\u79d8\u9c81\u5171\u548c\u56fd",
+                "common": "\u79d8\u9c81"
+            }
+        },
+        "latlng": [
+            -10.0,
+            -76.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "area": 1285216.0,
+        "demonyms": {
+            "eng": {
+                "f": "Peruvian",
+                "m": "Peruvian"
+            },
+            "fra": {
+                "f": "P\u00e9ruvienne",
+                "m": "P\u00e9ruvien"
+            }
+        },
+        "flag": "\ud83c\uddf5\ud83c\uddea",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+        },
+        "population": 32971846,
+        "gini": {
+            "2019": 41.5
+        },
+        "fifa": "PER",
+        "car": {
+            "signs": [
+                "PE"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pe.png",
+            "svg": "https://flagcdn.com/pe.svg",
+            "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -12.05,
+                -77.05
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Oriental del Uruguay",
+                    "common": "Uruguay"
+                }
+            }
+        },
+        "tld": [
+            ".uy"
+        ],
+        "cca2": "UY",
+        "ccn3": "858",
+        "cca3": "URY",
+        "cioc": "URU",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "98"
+            ]
+        },
+        "capital": [
+            "Montevideo"
+        ],
+        "altSpellings": [
+            "UY",
+            "Oriental Republic of Uruguay",
+            "Rep\u00fablica Oriental del Uruguay"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "common": "\u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"
+            },
+            "bre": {
+                "official": "Republik Reter Uruguay",
+                "common": "Uruguay"
+            },
+            "ces": {
+                "official": "Uruguaysk\u00e1 v\u00fdchodn\u00ed republika",
+                "common": "Uruguay"
+            },
+            "cym": {
+                "official": "Oriental Republic of Uruguay",
+                "common": "Uruguay"
+            },
+            "deu": {
+                "official": "Republik \u00d6stlich des Uruguay",
+                "common": "Uruguay"
+            },
+            "est": {
+                "official": "Uruguay Idavabariik",
+                "common": "Uruguay"
+            },
+            "fin": {
+                "official": "Uruguayn it\u00e4inen tasavalta",
+                "common": "Uruguay"
+            },
+            "fra": {
+                "official": "R\u00e9publique orientale de l'Uruguay",
+                "common": "Uruguay"
+            },
+            "hrv": {
+                "official": "Orijentalna Republika Urugvaj",
+                "common": "Urugvaj"
+            },
+            "hun": {
+                "official": "Uruguayi Keleti K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Uruguay"
+            },
+            "ita": {
+                "official": "Repubblica Orientale dell'Uruguay",
+                "common": "Uruguay"
+            },
+            "jpn": {
+                "official": "\u30a6\u30eb\u30b0\u30a2\u30a4\u6771\u65b9\u5171\u548c\u56fd",
+                "common": "\u30a6\u30eb\u30b0\u30a2\u30a4"
+            },
+            "kor": {
+                "official": "\uc6b0\ub8e8\uacfc\uc774 \ub3d9\ubc29 \uacf5\ud654\uad6d",
+                "common": "\uc6b0\ub8e8\uacfc\uc774"
+            },
+            "nld": {
+                "official": "Oosterse Republiek Uruguay",
+                "common": "Uruguay"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0648\u06af\u0648\u0626\u0647",
+                "common": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+            },
+            "pol": {
+                "official": "Wschodnia Republika Urugwaju",
+                "common": "Urugwaj"
+            },
+            "por": {
+                "official": "Rep\u00fablica Oriental do Uruguai",
+                "common": "Uruguai"
+            },
+            "rus": {
+                "official": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+                "common": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+            },
+            "slk": {
+                "official": "Uruguajsk\u00e1 v\u00fdchodn\u00e1 republika",
+                "common": "Uruguaj"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Oriental del Uruguay",
+                "common": "Uruguay"
+            },
+            "srp": {
+                "official": "\u0418\u0441\u0442\u043e\u0447\u043d\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0440\u0443\u0433\u0432\u0430\u0458",
+                "common": "\u0423\u0440\u0443\u0433\u0432\u0430\u0458"
+            },
+            "swe": {
+                "official": "Republiken Uruguay",
+                "common": "Uruguay"
+            },
+            "tur": {
+                "official": "Uruguay Do\u011fu Cumhuriyeti",
+                "common": "Uruguay"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2",
+                "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
+            },
+            "zho": {
+                "official": "\u4e4c\u62c9\u572d\u4e1c\u5cb8\u5171\u548c\u56fd",
+                "common": "\u4e4c\u62c9\u572d"
+            }
+        },
+        "latlng": [
+            -33.0,
+            -56.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "ARG",
+            "BRA"
+        ],
+        "area": 181034.0,
+        "demonyms": {
+            "eng": {
+                "f": "Uruguayan",
+                "m": "Uruguayan"
+            },
+            "fra": {
+                "f": "Uruguayenne",
+                "m": "Uruguayen"
+            }
+        },
+        "flag": "\ud83c\uddfa\ud83c\uddfe",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+        },
+        "population": 3473727,
+        "gini": {
+            "2019": 39.7
+        },
+        "fifa": "URU",
+        "car": {
+            "signs": [
+                "ROU"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/uy.png",
+            "svg": "https://flagcdn.com/uy.svg",
+            "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face \u2014 the Sun of May \u2014 from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/uy.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/uy.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -34.85,
+                -56.17
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Mexico",
+            "official": "United Mexican States",
+            "nativeName": {
+                "spa": {
+                    "official": "Estados Unidos Mexicanos",
+                    "common": "M\u00e9xico"
+                }
+            }
+        },
+        "tld": [
+            ".mx"
+        ],
+        "cca2": "MX",
+        "ccn3": "484",
+        "cca3": "MEX",
+        "cioc": "MEX",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "2"
+            ]
+        },
+        "capital": [
+            "Mexico City"
+        ],
+        "altSpellings": [
+            "MX",
+            "Mexicanos",
+            "United Mexican States",
+            "Estados Unidos Mexicanos"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0645\u0643\u0633\u064a\u0643\u064a\u0629",
+                "common": "\u0627\u0644\u0645\u0633\u0643\u064a\u0643"
+            },
+            "bre": {
+                "official": "Stado\u00f9-Unanet Mec'hiko",
+                "common": "Mec'hiko"
+            },
+            "ces": {
+                "official": "Spojen\u00e9 st\u00e1ty mexick\u00e9",
+                "common": "Mexiko"
+            },
+            "cym": {
+                "official": "United Mexican States",
+                "common": "Mexico"
+            },
+            "deu": {
+                "official": "Vereinigte Mexikanische Staaten",
+                "common": "Mexiko"
+            },
+            "est": {
+                "official": "Mehhiko \u00dchendriigid",
+                "common": "Mehhiko"
+            },
+            "fin": {
+                "official": "Meksikon yhdysvallat",
+                "common": "Meksiko"
+            },
+            "fra": {
+                "official": "\u00c9tats-Unis du Mexique",
+                "common": "Mexique"
+            },
+            "hrv": {
+                "official": "Sjedinjene Meksi\u010dke Dr\u017eave",
+                "common": "Meksiko"
+            },
+            "hun": {
+                "official": "Mexik\u00f3i Egyes\u00fclt \u00c1llamok",
+                "common": "Mexik\u00f3"
+            },
+            "ita": {
+                "official": "Stati Uniti del Messico",
+                "common": "Messico"
+            },
+            "jpn": {
+                "official": "\u30e1\u30ad\u30b7\u30b3\u5408\u8846\u56fd",
+                "common": "\u30e1\u30ad\u30b7\u30b3"
+            },
+            "kor": {
+                "official": "\uba55\uc2dc\ucf54 \ud569\uc911\uad6d",
+                "common": "\uba55\uc2dc\ucf54"
+            },
+            "nld": {
+                "official": "Verenigde Mexicaanse Staten",
+                "common": "Mexico"
+            },
+            "per": {
+                "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f \u0645\u06a9\u0632\u06cc\u06a9",
+                "common": "\u0645\u06a9\u0632\u06cc\u06a9"
+            },
+            "pol": {
+                "official": "Meksyka\u0144skie Stany Zjednoczone",
+                "common": "Meksyk"
+            },
+            "por": {
+                "official": "Estados Unidos Mexicanos",
+                "common": "M\u00e9xico"
+            },
+            "rus": {
+                "official": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b",
+                "common": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
+            },
+            "slk": {
+                "official": "Spojen\u00e9 \u0161t\u00e1\u0161y mexick\u00e9",
+                "common": "Mexiko"
+            },
+            "spa": {
+                "official": "Estados Unidos Mexicanos",
+                "common": "M\u00e9xico"
+            },
+            "srp": {
+                "official": "\u0421\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u0435 \u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0435 \u0414\u0440\u0436\u0430\u0432\u0435",
+                "common": "\u041c\u0435\u043a\u0441\u0438\u043a\u043e"
+            },
+            "swe": {
+                "official": "Mexikos f\u00f6renta stater",
+                "common": "Mexiko"
+            },
+            "tur": {
+                "official": "Birle\u015fik Meksika Devletleri",
+                "common": "Meksika"
+            },
+            "urd": {
+                "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
+                "common": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"
+            },
+            "zho": {
+                "official": "\u58a8\u897f\u54e5\u5408\u4f17\u56fd",
+                "common": "\u58a8\u897f\u54e5"
+            }
+        },
+        "latlng": [
+            23.0,
+            -102.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "area": 1964375.0,
+        "demonyms": {
+            "eng": {
+                "f": "Mexican",
+                "m": "Mexican"
+            },
+            "fra": {
+                "f": "Mexicaine",
+                "m": "Mexicain"
+            }
+        },
+        "flag": "\ud83c\uddf2\ud83c\uddfd",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+        },
+        "population": 128932753,
+        "gini": {
+            "2018": 45.4
+        },
+        "fifa": "MEX",
+        "car": {
+            "signs": [
+                "MEX"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/mx.png",
+            "svg": "https://flagcdn.com/mx.svg",
+            "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                19.43,
+                -99.13
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica Dominicana",
+                    "common": "Rep\u00fablica Dominicana"
+                }
+            }
+        },
+        "tld": [
+            ".do"
+        ],
+        "cca2": "DO",
+        "ccn3": "214",
+        "cca3": "DOM",
+        "cioc": "DOM",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "809",
+                "829",
+                "849"
+            ]
+        },
+        "capital": [
+            "Santo Domingo"
+        ],
+        "altSpellings": [
+            "DO"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627\u0646"
+            },
+            "bre": {
+                "official": "Republik Dominikan",
+                "common": "Republik Dominikan"
+            },
+            "ces": {
+                "official": "Dominik\u00e1nsk\u00e1 republika",
+                "common": "Dominik\u00e1nsk\u00e1 republika"
+            },
+            "cym": {
+                "official": "Gweriniaeth Dominica",
+                "common": "Gweriniaeth Dominica"
+            },
+            "deu": {
+                "official": "Dominikanische Republik",
+                "common": "Dominikanische Republik"
+            },
+            "est": {
+                "official": "Dominikaani Vabariik",
+                "common": "Dominikaani Vabariik"
+            },
+            "fin": {
+                "official": "Dominikaaninen tasavalta",
+                "common": "Dominikaaninen tasavalta"
+            },
+            "fra": {
+                "official": "R\u00e9publique Dominicaine",
+                "common": "R\u00e9publique dominicaine"
+            },
+            "hrv": {
+                "official": "Dominikanska Republika",
+                "common": "Dominikanska Republika"
+            },
+            "hun": {
+                "official": "Dominikai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+            },
+            "ita": {
+                "official": "Repubblica Dominicana",
+                "common": "Repubblica Dominicana"
+            },
+            "jpn": {
+                "official": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
+                "common": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
+            },
+            "kor": {
+                "official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d",
+                "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+            },
+            "nld": {
+                "official": "Dominicaanse Republiek",
+                "common": "Dominicaanse Republiek"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+            },
+            "pol": {
+                "official": "Republika Dominika\u0144ska",
+                "common": "Dominikana"
+            },
+            "por": {
+                "official": "Rep\u00fablica Dominicana",
+                "common": "Rep\u00fablica Dominicana"
+            },
+            "rus": {
+                "official": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+            },
+            "slk": {
+                "official": "Dominik\u00e1nska republika",
+                "common": "Dominik\u00e1nska republika"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Dominicana",
+                "common": "Rep\u00fablica Dominicana"
+            },
+            "srp": {
+                "official": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0430"
+            },
+            "swe": {
+                "official": "Dominikanska republiken",
+                "common": "Dominikanska republiken"
+            },
+            "tur": {
+                "official": "Dominik Cumhuriyeti",
+                "common": "Dominik Cumhuriyeti"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
+                "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+            },
+            "zho": {
+                "official": "\u591a\u660e\u5c3c\u52a0\u5171\u548c\u56fd",
+                "common": "\u591a\u660e\u5c3c\u52a0"
+            }
+        },
+        "latlng": [
+            19.0,
+            -70.66666666
+        ],
+        "landlocked": false,
+        "borders": [
+            "HTI"
+        ],
+        "area": 48671.0,
+        "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
+            "fra": {
+                "f": "Dominicaine",
+                "m": "Dominicain"
+            }
+        },
+        "flag": "\ud83c\udde9\ud83c\uddf4",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307828"
+        },
+        "population": 10847904,
+        "gini": {
+            "2019": 41.9
+        },
+        "fifa": "DOM",
+        "car": {
+            "signs": [
+                "DOM"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/do.png",
+            "svg": "https://flagcdn.com/do.svg",
+            "alt": "The flag of the Dominican Republic is divided into four rectangles by a centered white cross that extends to the edges of the field and bears the national coat of arms in its center. The upper hoist-side and lower fly-side rectangles are blue and the lower hoist-side and upper fly-side rectangles are red."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/do.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/do.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                18.47,
+                -69.9
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Nicaragua",
+                    "common": "Nicaragua"
+                }
+            }
+        },
+        "tld": [
+            ".ni"
+        ],
+        "cca2": "NI",
+        "ccn3": "558",
+        "cca3": "NIC",
+        "cioc": "NCA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan c\u00f3rdoba",
+                "symbol": "C$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "05"
+            ]
+        },
+        "capital": [
+            "Managua"
+        ],
+        "altSpellings": [
+            "NI",
+            "Republic of Nicaragua",
+            "Rep\u00fablica de Nicaragua"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627",
+                "common": "\u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627"
+            },
+            "bre": {
+                "official": "Republik Nicaragua",
+                "common": "Nicaragua"
+            },
+            "ces": {
+                "official": "Republika Nikaragua",
+                "common": "Nikaragua"
+            },
+            "cym": {
+                "official": "Republic of Nicaragua",
+                "common": "Nicaragua"
+            },
+            "deu": {
+                "official": "Republik Nicaragua",
+                "common": "Nicaragua"
+            },
+            "est": {
+                "official": "Nicaragua Vabariik",
+                "common": "Nicaragua"
+            },
+            "fin": {
+                "official": "Nicaraguan tasavalta",
+                "common": "Nicaragua"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Nicaragua",
+                "common": "Nicaragua"
+            },
+            "hrv": {
+                "official": "Republika Nikaragva",
+                "common": "Nikaragva"
+            },
+            "hun": {
+                "official": "Nicaraguai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Nicaragua"
+            },
+            "ita": {
+                "official": "Repubblica del Nicaragua",
+                "common": "Nicaragua"
+            },
+            "jpn": {
+                "official": "\u30cb\u30ab\u30e9\u30b0\u30a2\u5171\u548c\u56fd",
+                "common": "\u30cb\u30ab\u30e9\u30b0\u30a2"
+            },
+            "kor": {
+                "official": "\ub2c8\uce74\ub77c\uacfc \uacf5\ud654\uad6d",
+                "common": "\ub2c8\uce74\ub77c\uacfc"
+            },
+            "nld": {
+                "official": "Republiek Nicaragua",
+                "common": "Nicaragua"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+                "common": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+            },
+            "pol": {
+                "official": "Republika Nikaragui",
+                "common": "Nikaragua"
+            },
+            "por": {
+                "official": "Rep\u00fablica da Nicar\u00e1gua",
+                "common": "Nicar\u00e1gua"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+                "common": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+            },
+            "slk": {
+                "official": "Nikaragujsk\u00e1 republika",
+                "common": "Nikaragua"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Nicaragua",
+                "common": "Nicaragua"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430",
+                "common": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0432\u0430"
+            },
+            "swe": {
+                "official": "Republiken Nicaragua",
+                "common": "Nicaragua"
+            },
+            "tur": {
+                "official": "Nikaragua Cumhuriyeti",
+                "common": "Nikaragua"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627",
+                "common": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+            },
+            "zho": {
+                "official": "\u5c3c\u52a0\u62c9\u74dc\u5171\u548c\u56fd",
+                "common": "\u5c3c\u52a0\u62c9\u74dc"
+            }
+        },
+        "latlng": [
+            13.0,
+            -85.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "CRI",
+            "HND"
+        ],
+        "area": 130373.0,
+        "demonyms": {
+            "eng": {
+                "f": "Nicaraguan",
+                "m": "Nicaraguan"
+            },
+            "fra": {
+                "f": "Nicaraguayenne",
+                "m": "Nicaraguayen"
+            }
+        },
+        "flag": "\ud83c\uddf3\ud83c\uddee",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+        },
+        "population": 6624554,
+        "gini": {
+            "2014": 46.2
+        },
+        "fifa": "NCA",
+        "car": {
+            "signs": [
+                "NIC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ni.png",
+            "svg": "https://flagcdn.com/ni.svg",
+            "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                12.13,
+                -86.25
+            ]
+        },
+        "postalCode": {
+            "format": "###-###-#",
+            "regex": "^(\\d{7})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "Rep\u00fablica de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "tld": [
+            ".cl"
+        ],
+        "cca2": "CL",
+        "ccn3": "152",
+        "cca3": "CHL",
+        "cioc": "CHI",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Santiago"
+        ],
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "Rep\u00fablica de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u062a\u0634\u064a\u0644\u064a",
+                "common": "\u062a\u0634\u064a\u0644\u064a"
+            },
+            "bre": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "ces": {
+                "official": "Chilsk\u00e1 republika",
+                "common": "Chile"
+            },
+            "cym": {
+                "official": "Gweriniaeth Chile",
+                "common": "Chile"
+            },
+            "deu": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
+            "est": {
+                "official": "T\u0161iili Vabariik",
+                "common": "T\u0161iili"
+            },
+            "fin": {
+                "official": "Chilen tasavalta",
+                "common": "Chile"
+            },
+            "fra": {
+                "official": "R\u00e9publique du Chili",
+                "common": "Chili"
+            },
+            "hrv": {
+                "official": "Republika \u010cile",
+                "common": "\u010cile"
+            },
+            "hun": {
+                "official": "Chilei K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Chile"
+            },
+            "ita": {
+                "official": "Repubblica del Cile",
+                "common": "Cile"
+            },
+            "jpn": {
+                "official": "\u30c1\u30ea\u5171\u548c\u56fd",
+                "common": "\u30c1\u30ea"
+            },
+            "kor": {
+                "official": "\uce60\ub808 \uacf5\ud654\uad6d",
+                "common": "\uce60\ub808"
+            },
+            "nld": {
+                "official": "Republiek Chili",
+                "common": "Chili"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0634\u06cc\u0644\u06cc",
+                "common": "\u0634\u06cc\u0644\u06cc"
+            },
+            "pol": {
+                "official": "Republika Chile",
+                "common": "Chile"
+            },
+            "por": {
+                "official": "Rep\u00fablica do Chile",
+                "common": "Chile"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0438",
+                "common": "\u0427\u0438\u043b\u0438"
+            },
+            "slk": {
+                "official": "\u010c\u00edlska republika",
+                "common": "\u010cile"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de Chile",
+                "common": "Chile"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0435",
+                "common": "\u0427\u0438\u043b\u0435"
+            },
+            "swe": {
+                "official": "Republiken Chile",
+                "common": "Chile"
+            },
+            "tur": {
+                "official": "\u015eili Cumhuriyeti",
+                "common": "\u015eili"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc",
+                "common": "\u0686\u0644\u06cc"
+            },
+            "zho": {
+                "official": "\u667a\u5229\u5171\u548c\u56fd",
+                "common": "\u667a\u5229"
+            }
+        },
+        "latlng": [
+            -30.0,
+            -71.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "area": 756102.0,
+        "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
+            "fra": {
+                "f": "Chilienne",
+                "m": "Chilien"
+            }
+        },
+        "flag": "\ud83c\udde8\ud83c\uddf1",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+        },
+        "population": 19116209,
+        "gini": {
+            "2017": 44.4
+        },
+        "fifa": "CHI",
+        "car": {
+            "signs": [
+                "RCH"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cl.png",
+            "svg": "https://flagcdn.com/cl.svg",
+            "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cl.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cl.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -33.45,
+                -70.67
+            ]
+        },
+        "postalCode": {
+            "format": "#######",
+            "regex": "^(\\d{7})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Belize",
+            "official": "Belize",
+            "nativeName": {
+                "bjz": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "eng": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "spa": {
+                    "official": "Belice",
+                    "common": "Belice"
+                }
+            }
+        },
+        "tld": [
+            ".bz"
+        ],
+        "cca2": "BZ",
+        "ccn3": "084",
+        "cca3": "BLZ",
+        "cioc": "BIZ",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "01"
+            ]
+        },
+        "capital": [
+            "Belmopan"
+        ],
+        "altSpellings": [
+            "BZ"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0628\u0644\u064a\u0632",
+                "common": "\u0628\u0644\u064a\u0632"
+            },
+            "bre": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "ces": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "cym": {
+                "official": "Bel\u00ees",
+                "common": "Bel\u00ees"
+            },
+            "deu": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "est": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "fin": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "fra": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "hrv": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "hun": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "ita": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "jpn": {
+                "official": "\u30d9\u30ea\u30fc\u30ba",
+                "common": "\u30d9\u30ea\u30fc\u30ba"
+            },
+            "kor": {
+                "official": "\ubca8\ub9ac\uc988",
+                "common": "\ubca8\ub9ac\uc988"
+            },
+            "nld": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "per": {
+                "official": "\u0628\u0644\u06cc\u0632",
+                "common": "\u0628\u0644\u06cc\u0632"
+            },
+            "pol": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "por": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "rus": {
+                "official": "\u0411\u0435\u043b\u0438\u0437",
+                "common": "\u0411\u0435\u043b\u0438\u0437"
+            },
+            "slk": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "spa": {
+                "official": "Belice",
+                "common": "Belice"
+            },
+            "srp": {
+                "official": "\u0411\u0435\u043b\u0438\u0437\u0435",
+                "common": "\u0411\u0435\u043b\u0438\u0437\u0435"
+            },
+            "swe": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "tur": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "urd": {
+                "official": "\u0628\u06cc\u0644\u06cc\u0632",
+                "common": "\u0628\u06cc\u0644\u06cc\u0632"
+            },
+            "zho": {
+                "official": "\u4f2f\u5229\u5179",
+                "common": "\u4f2f\u5229\u5179"
+            }
+        },
+        "latlng": [
+            17.25,
+            -88.75
+        ],
+        "landlocked": false,
+        "borders": [
+            "GTM",
+            "MEX"
+        ],
+        "area": 22966.0,
+        "demonyms": {
+            "eng": {
+                "f": "Belizean",
+                "m": "Belizean"
+            },
+            "fra": {
+                "f": "B\u00e9lizienne",
+                "m": "B\u00e9lizien"
+            }
+        },
+        "flag": "\ud83c\udde7\ud83c\uddff",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+        },
+        "population": 397621,
+        "gini": {
+            "1999": 53.3
+        },
+        "fifa": "BLZ",
+        "car": {
+            "signs": [
+                "BH"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/bz.png",
+            "svg": "https://flagcdn.com/bz.svg",
+            "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                17.25,
+                -88.77
+            ]
+        }
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "by": "tosh",
+    "descendants": 2,
+    "id": 39994391,
+    "kids": [
+        39994874,
+        39994858,
+        39994897
+    ],
+    "score": 52,
+    "time": 1712775204,
+    "title": "Full forward pass of GPT-2 in one file of pure CUDA",
+    "type": "story",
+    "url": "https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu"
+}
